@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Mohamoud Warsama 👋
 
-<!--
-**mohamoudwars/mohamoudwars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in Birmingham, UK. I specialize in Java and web development, and I'm always exploring new technologies. I'm passionate about open-source projects and contributing to the developer community.
 
-Here are some ideas to get you started:
+Welcome to my GitHub! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+- **Languages:** Java, Python, JavaScript
+- **Web Development:** HTML, CSS, React
+- **Tools:** Git, GitHub, Docker, VS Code
+- **Databases:** MySQL, MongoDB
+## Featured Projects
+
+### [Project 1: Website](https://lnkd.in/eNryMwfE)
+A personal website built with JavaScript, HTML and CSS showcasing my portfolio and blog.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mohamoud-warsama-46b624219/).
+
+
+
